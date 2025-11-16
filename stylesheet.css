@@ -450,3 +450,11 @@ button {
     border-radius: 50px;
 }
 
+.tre-username {
+    font-family: "roboto", sans-serif;
+}
+
+.tre-ppl-name {
+    font-family: "roboto", sans-serif;
+    font-size: 0.8rem;
+}
